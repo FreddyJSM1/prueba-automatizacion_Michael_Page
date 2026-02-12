@@ -1,0 +1,44 @@
+{
+    "estadisticas": {
+        "total_registros": 10,
+        "promedios_columnas_numericas": {
+            "ID": 5.5,
+            "Age": 34.1,
+            "Salary": 62000.0
+        }
+    },
+    "filtro_aplicado": {
+        "columna": "Salary",
+        "umbral": 65000
+    },
+    "datos_filtrados": [
+        {
+            "ID": 3,
+            "Name": "Bob Johnson",
+            "Age": 45,
+            "Salary": 75000,
+            "Department": "Engineering"
+        },
+        {
+            "ID": 5,
+            "Name": "Tom Clark",
+            "Age": 37,
+            "Salary": 67000,
+            "Department": "Marketing"
+        },
+        {
+            "ID": 6,
+            "Name": "Mary Green",
+            "Age": 41,
+            "Salary": 73000,
+            "Department": "HR"
+        },
+        {
+            "ID": 8,
+            "Name": "Nancy Wilson",
+            "Age": 36,
+            "Salary": 80000,
+            "Department": "Marketing"
+        }
+    ]
+}
