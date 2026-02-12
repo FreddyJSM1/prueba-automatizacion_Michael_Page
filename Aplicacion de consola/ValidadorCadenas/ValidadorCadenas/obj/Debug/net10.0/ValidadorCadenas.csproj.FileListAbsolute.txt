@@ -1,0 +1,14 @@
+E:\Documentos\Proyectos\Aplicacion de consola\ValidadorCadenas\ValidadorCadenas\bin\Debug\net10.0\ValidadorCadenas.exe
+E:\Documentos\Proyectos\Aplicacion de consola\ValidadorCadenas\ValidadorCadenas\bin\Debug\net10.0\ValidadorCadenas.deps.json
+E:\Documentos\Proyectos\Aplicacion de consola\ValidadorCadenas\ValidadorCadenas\bin\Debug\net10.0\ValidadorCadenas.runtimeconfig.json
+E:\Documentos\Proyectos\Aplicacion de consola\ValidadorCadenas\ValidadorCadenas\bin\Debug\net10.0\ValidadorCadenas.dll
+E:\Documentos\Proyectos\Aplicacion de consola\ValidadorCadenas\ValidadorCadenas\bin\Debug\net10.0\ValidadorCadenas.pdb
+E:\Documentos\Proyectos\Aplicacion de consola\ValidadorCadenas\ValidadorCadenas\obj\Debug\net10.0\ValidadorCadenas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Proyectos\Aplicacion de consola\ValidadorCadenas\ValidadorCadenas\obj\Debug\net10.0\ValidadorCadenas.AssemblyInfoInputs.cache
+E:\Documentos\Proyectos\Aplicacion de consola\ValidadorCadenas\ValidadorCadenas\obj\Debug\net10.0\ValidadorCadenas.AssemblyInfo.cs
+E:\Documentos\Proyectos\Aplicacion de consola\ValidadorCadenas\ValidadorCadenas\obj\Debug\net10.0\ValidadorCadenas.csproj.CoreCompileInputs.cache
+E:\Documentos\Proyectos\Aplicacion de consola\ValidadorCadenas\ValidadorCadenas\obj\Debug\net10.0\ValidadorCadenas.dll
+E:\Documentos\Proyectos\Aplicacion de consola\ValidadorCadenas\ValidadorCadenas\obj\Debug\net10.0\refint\ValidadorCadenas.dll
+E:\Documentos\Proyectos\Aplicacion de consola\ValidadorCadenas\ValidadorCadenas\obj\Debug\net10.0\ValidadorCadenas.pdb
+E:\Documentos\Proyectos\Aplicacion de consola\ValidadorCadenas\ValidadorCadenas\obj\Debug\net10.0\ValidadorCadenas.genruntimeconfig.cache
+E:\Documentos\Proyectos\Aplicacion de consola\ValidadorCadenas\ValidadorCadenas\obj\Debug\net10.0\ref\ValidadorCadenas.dll
