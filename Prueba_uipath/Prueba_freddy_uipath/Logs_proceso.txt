@@ -1,0 +1,9 @@
+Inicio del proceso - 2026-02-12 05:59:51
+Procesando: Ana - Inválido (menos de 5 caracteres)
+Procesando: Luis - Inválido (menos de 5 caracteres)
+
+Resumen del proceso:
+Total registros: 12
+Válidos: 10
+Inválidos: 2
+Fin del proceso
